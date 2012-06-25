@@ -1,0 +1,10 @@
+845503d484d8d065b643da210be06466 *DESCRIPTION
+261b327b6466dc5787d8071fdaa66a5b *NAMESPACE
+21be9ec18a50589213c2eaec63edc4f6 *R/linLIRfunctions.R
+2b496a849f2fcae9963b518a956ae7ef *data/toy.smps.RData
+b17654724ffa3b95d5905f07aadfbf60 *man/gen.lms.Rd
+3a92f18b9a4f44a89a0cf566732e3716 *man/idf.Rd
+3b988bfeccebef6fcdce2835d58c64be *man/kl.ku.Rd
+b875e31ea63f7e25c3032ca1545b8bc5 *man/s.linlir.Rd
+aba5e12e2e1078d58b3d3423763aa0a0 *man/toy.smps.Rd
+693f6a4f974d60c8f2613d8e9cf757d2 *man/undom.Rd
