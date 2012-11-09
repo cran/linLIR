@@ -1,8 +1,8 @@
 Package: linLIR
 Type: Package
 Title: linear Likelihood-based Imprecise Regression
-Version: 1.0-2
-Date: 2012-07-08
+Version: 1.1
+Date: 2012-11-09
 Author: Andrea Wiencierz
 Maintainer: Andrea Wiencierz <Andrea.Wiencierz@stat.uni-muenchen.de>
 Description: This package implements the methodology of
@@ -11,7 +11,7 @@ Description: This package implements the methodology of
 License: GPL (>= 2)
 Repository: CRAN
 Repository/R-Forge/Project: lir
-Repository/R-Forge/Revision: 16
-Repository/R-Forge/DateTimeStamp: 2012-09-06T17:08:26
-Packaged: 2012-09-06 18:20:24 UTC; rforge
-Date/Publication: 2012-09-07 12:19:46
+Repository/R-Forge/Revision: 25
+Repository/R-Forge/DateTimeStamp: 2012-11-09 13:13:06
+Date/Publication: 2012-11-14 11:16:54
+Packaged: 2012-11-11 23:32:39 UTC; rforge
